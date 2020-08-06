@@ -38,3 +38,16 @@ p {
     padding-right: 30%;
     font-style: italic;
 }
+
+#eatIt {
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+   width: 25%;
+   margin-bottom: 30px;
+
+}
+
+#logoBackwards {
+    
+}
