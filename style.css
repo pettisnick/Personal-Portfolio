@@ -59,3 +59,31 @@ p {
 #eatIt {
     border: 2px solid black;
 }
+
+#contact {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 450px;
+    height: 350px;
+    margin-bottom: 30px;
+ 
+ }
+ 
+ #contact {
+     border: 2px solid black;
+ }
+
+ #notes {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 450px;
+    height: 350px;
+    margin-bottom: 30px;
+ 
+ }
+ 
+ #notes {
+     border: 2px solid black;
+ }
