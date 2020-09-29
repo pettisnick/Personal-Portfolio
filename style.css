@@ -115,3 +115,17 @@ p {
  #pword {
      border: 2px solid black;
  }
+
+ #burger {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 450px;
+    height: 350px;
+    margin-bottom: 30px;
+ 
+ }
+ 
+ #burger {
+     border: 2px solid black;
+ }
