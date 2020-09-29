@@ -87,3 +87,31 @@ p {
  #notes {
      border: 2px solid black;
  }
+
+ #scheduler {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 450px;
+    height: 350px;
+    margin-bottom: 30px;
+ 
+ }
+ 
+ #scheduler {
+     border: 2px solid black;
+ }
+
+ #pword {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 450px;
+    height: 350px;
+    margin-bottom: 30px;
+ 
+ }
+ 
+ #pword {
+     border: 2px solid black;
+ }
